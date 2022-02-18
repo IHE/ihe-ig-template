@@ -12,6 +12,15 @@
       "current": true
     },
     {
+      "version": "0.5.0",
+      "desc": "Add google analytics for IHE google analytics account",
+      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.0",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-02-17"
+    },
+    {
       "version": "0.4.0",
       "desc": "Tweek colors to align with www.ihe.net, and adjust headers",
       "path": "http://fhir.org/templates/ihe.fhir.template/0.4.0",
