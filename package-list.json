@@ -12,6 +12,15 @@
       "current": true
     },
     {
+      "version": "0.5.1",
+      "desc": "Add domain graphics, and switch to simple FHRI flame",
+      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.1",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-03-16"
+    },
+    {
       "version": "0.5.0",
       "desc": "Add google analytics for IHE google analytics account",
       "path": "http://fhir.org/templates/ihe.fhir.template/0.5.0",
