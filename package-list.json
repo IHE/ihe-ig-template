@@ -12,12 +12,20 @@
       "current": true
     },
     {
+      "version": "0.5.2",
+      "desc": "Add IHE favicon",
+      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.2",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-03-30"
+    },
+    {
       "version": "0.5.1",
       "desc": "Add domain graphics, and switch to simple FHIR flame",
       "path": "http://fhir.org/templates/ihe.fhir.template/0.5.1",
       "status": "release",
       "sequence": "Publications",
-      "current": true,
       "date": "2022-03-17"
     },
     {
