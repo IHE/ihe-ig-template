@@ -2,6 +2,9 @@
 This is the IHE template for the FHIR IG publisher -- ihe.fhir.template
 
 This template should be used by all IHE profiles using the IG publisher
+* Will select domain icon given the canonical URI
+* Switch to no automatic header numbers using input/data/features.yml
+  * `disable_autonumbering: true`
 
 Details on the IG templating - http://build.fhir.org/ig/FHIR/ig-guidance/
 
