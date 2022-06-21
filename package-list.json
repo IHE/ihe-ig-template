@@ -12,12 +12,20 @@
       "current": true
     },
     {
+      "version": "0.5.3",
+      "desc": "Add nonumbers and automatic domain selecting graphic",
+      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.3",
+      "status": "release",
+      "sequence": "Publications",
+      "current": true,
+      "date": "2022-06-21"
+    },
+    {
       "version": "0.5.2",
       "desc": "Add IHE favicon",
       "path": "http://fhir.org/templates/ihe.fhir.template/0.5.2",
       "status": "release",
       "sequence": "Publications",
-      "current": true,
       "date": "2022-03-30"
     },
     {
