@@ -1,13 +1,13 @@
 ﻿{
-  "name": "ihe.fhir.template",
-  "type": "fhir.template",
-  "license": "CC0-1.0",
-  "description": "IHE FHIR Template",
-  "author": "http://ihe.net",
-  "canonical": "http://fhir.org/templates/ihe.fhir.template",
-  "base": "fhir.base.template",
-  "dependencies": {
-    "fhir.base.template": "current"
+  "name" : "ihe.fhir.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "IHE FHIR Template",
+  "author" : "http://ihe.net",
+  "canonical" : "http://fhir.org/templates/ihe.fhir.template",
+  "base" : "fhir.base.template",
+  "dependencies" : {
+    "fhir.base.template" : "current"
   },
-  "version": "0.6.0"
+  "version" : "0.7.0"
 }

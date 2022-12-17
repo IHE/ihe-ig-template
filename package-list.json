@@ -1,102 +1,111 @@
 ﻿{
-  "package-id": "ihe.fhir.template",
-  "title": "Template for FHIR IGs published by IHE",
-  "canonical": "http://fhir.org/templates/ihe.fhir.template",
-  "introduction": "This is the template for FHIR guides published by IHE",
-  "list": [
+  "package-id" : "ihe.fhir.template",
+  "title" : "Template for FHIR IGs published by IHE",
+  "canonical" : "http://fhir.org/templates/ihe.fhir.template",
+  "introduction" : "This is the template for FHIR guides published by IHE",
+  "list" : [
     {
-      "version": "current",
-      "desc": "Continuous Integration Build (latest in version control)",
-      "path": "https://build.fhir.org/ig/IHE/ihe-ig-template",
-      "status": "ci-build",
-      "current": true
+      "version" : "current",
+      "desc" : "Continuous Integration Build (latest in version control)",
+      "path" : "https://build.fhir.org/ig/IHE/ihe-ig-template",
+      "status" : "ci-build",
+      "current" : true
     },
     {
-      "version": "0.6.0",
-      "desc": "Upgrade for dependency on fhir.base.template",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.6.0",
-      "status": "release",
-      "sequence": "Publications",
-      "current": true,
-      "date": "2022-09-16"
+      "version" : "0.7.0",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.7.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "desc" : "Upgrade for dependency on fhir.base.template",
+      "date" : "2022-12-17",
+      "current" : true
     },
     {
-      "version": "0.5.3",
-      "desc": "Add nonumbers and automatic domain selecting graphic",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.3",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2022-06-21"
+      "version" : "0.6.0",
+      "desc" : "Upgrade for dependency on fhir.base.template",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.6.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2022-09-16"
     },
     {
-      "version": "0.5.2",
-      "desc": "Add IHE favicon",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.2",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2022-03-30"
+      "version" : "0.5.3",
+      "desc" : "Add nonumbers and automatic domain selecting graphic",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.5.3",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2022-06-21"
     },
     {
-      "version": "0.5.1",
-      "desc": "Add domain graphics, and switch to simple FHIR flame",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.1",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2022-03-17"
+      "version" : "0.5.2",
+      "desc" : "Add IHE favicon",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.5.2",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2022-03-30"
     },
     {
-      "version": "0.5.0",
-      "desc": "Add google analytics for IHE google analytics account",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.5.0",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2022-02-17"
+      "version" : "0.5.1",
+      "desc" : "Add domain graphics, and switch to simple FHIR flame",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.5.1",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2022-03-17"
     },
     {
-      "version": "0.4.0",
-      "desc": "Tweek colors to align with www.ihe.net, and adjust headers",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.4.0",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2021-09-03"
+      "version" : "0.5.0",
+      "desc" : "Add google analytics for IHE google analytics account",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.5.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2022-02-17"
     },
     {
-      "version": "0.3.1",
-      "desc": "Upgrade for dependency on fhir.base.template",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.3.1",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2020-09-29"
+      "version" : "0.4.0",
+      "desc" : "Tweek colors to align with www.ihe.net, and adjust headers",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.4.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2021-09-03"
     },
     {
-      "version": "0.3.0",
-      "desc": "Upgrade for dependency on fhir.base.template",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.3.0",
-      "status": "release",
-      "sequence": "Publications",
-      "date": "2020-09-26"
+      "version" : "0.3.1",
+      "desc" : "Upgrade for dependency on fhir.base.template",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.3.1",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2020-09-29"
     },
     {
-      "version": "0.2.0",
-      "desc": "04-07-2020 - using proper colors and remove unneeded files",
-      "path": "https://build.fhir.org/ig/IHE/ihe-ig-template/0.2.0",
-      "status": "release",
-      "date": "2020-07-08"
+      "version" : "0.3.0",
+      "desc" : "Upgrade for dependency on fhir.base.template",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.3.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "date" : "2020-09-26"
     },
     {
-      "version": "0.1.0",
-      "desc": "22-2-2020 - based on base template",
-      "path": "https://build.fhir.org/ig/IHE/ihe-ig-template/0.1.0",
-      "status": "release",
-      "date": "2020-02-22"
+      "version" : "0.2.0",
+      "desc" : "04-07-2020 - using proper colors and remove unneeded files",
+      "path" : "https://build.fhir.org/ig/IHE/ihe-ig-template/0.2.0",
+      "status" : "release",
+      "date" : "2020-07-08"
     },
     {
-      "version": "0.0.2",
-      "desc": "First Release",
-      "path": "http://fhir.org/templates/ihe.fhir.template/0.0.2",
-      "status": "release",
-      "date": "2020-02-05",
-      "sequence": "Publications"
+      "version" : "0.1.0",
+      "desc" : "22-2-2020 - based on base template",
+      "path" : "https://build.fhir.org/ig/IHE/ihe-ig-template/0.1.0",
+      "status" : "release",
+      "date" : "2020-02-22"
+    },
+    {
+      "version" : "0.0.2",
+      "desc" : "First Release",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.0.2",
+      "status" : "release",
+      "date" : "2020-02-05",
+      "sequence" : "Publications"
     }
   ]
 }
