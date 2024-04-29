@@ -12,6 +12,16 @@
       "current" : true
     },
     {
+      "version" : "0.11.0",
+      "path" : "http://fhir.org/templates/ihe.fhir.template/0.11.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "desc" : "Move google analytics into .js file",
+      "date" : "2024-04-29",
+      "current" : true
+    },
+    {
       "version" : "0.10.0",
       "path" : "http://fhir.org/templates/ihe.fhir.template/0.10.0",
       "status" : "release",
