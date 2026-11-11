@@ -56,6 +56,16 @@ Usage:
 
 }
 
+/* Domain logo in the header. Same layout as #project-nav (base template, cqf.css), but a
+   separate id so that the IHE logo and the domain logo do not share an id. */
+#domain-nav {
+  line-height: 50px;
+  float: left;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  color: #808080;
+}
+
 // this can be removed when base template is updated
 /*
 #segment-header {
